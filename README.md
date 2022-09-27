@@ -22,8 +22,6 @@ Prototype of a NFT Marketplace based on openZeppelin abstract upgradeable ERC721
 <hr />
 
 See it live on [Rinkeby Network](https://nft.s2paganini.com) 
-
-
 <hr />
 
 ## ⚡️ Tech-Stack
